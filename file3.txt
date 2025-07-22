@@ -1,4 +1,9 @@
 data
 data2
+<<<<<<< HEAD
 data3
 data4
+=======
+data 3
+data 4
+>>>>>>> a81ddc91e70c4e15df02a8c638d4fe3bdd3e608a
